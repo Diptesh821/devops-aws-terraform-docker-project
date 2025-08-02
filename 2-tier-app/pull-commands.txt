@@ -1,0 +1,3 @@
+docker pull dipteshsingh/frontend:latest
+docker pull dipteshsingh/backend:latest
+docker pull dipteshsingh/feedback-db:latest
