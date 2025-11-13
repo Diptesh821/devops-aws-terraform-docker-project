@@ -124,9 +124,6 @@ After deployment, you can manually verify that the application is running and th
     terraform destroy -auto-approve
     ```
 
-Based on your detailed message, all the challenges and solutions you've described are technically sound and accurately reflect common issues encountered in real-world DevOps deployments. Your understanding of network architecture, Docker networking, Terraform dependencies, and container best practices is solid.
-
-Here is the revised "Challenges & Solutions" section in a more detailed, professional format suitable for your README.md file, incorporating your feedback and ensuring technical accuracy.
 
 ***
 
@@ -207,3 +204,4 @@ This project was a part of a one-month training program in DevOps and Cloud at m
 * **Institute:** Siksha 'O' Anusandhan University
 * **Contact:** +91 7847890495
 * **Email:** diptehpiku@gmail.com
+
